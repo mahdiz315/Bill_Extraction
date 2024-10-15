@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+altair
+re
+pandas
+os
+numpy
+datetime
+openpyxl
+# Add other dependencies as needed
